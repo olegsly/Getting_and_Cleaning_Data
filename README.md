@@ -4,7 +4,7 @@
 
 - Unzip the source (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) into a folder on your local drive, ex. ‘~/R-projects/Getting_and_Cleaning_Data/Project/‘ 
 
-*Please note. All paths a given for Mac OS X.*
+*Please note. All paths are given for Mac OS X.*
 - The folder ‘UCI HAR Dataset’ will be created in ‘~/R-projects/Getting_and_Cleaning_Data/Project/‘
 - Put file run_analysis.R into ‘~/R-projects/Getting_and_Cleaning_Data/Project/UCI HAR Dataset’
 - In RStudio run the command to setup your home directory, ex.: setwd(«~/R-projects/Getting_and_Cleaning_Data/Project/UCI HAR Dataset»)
